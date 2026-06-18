@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **scary9418@gmail.com**
 
-- ⚡ Fun fact **Trying to learn things to get the title know as "1337"**
+- ⚡ Fun fact ** Aiming for 1337**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
