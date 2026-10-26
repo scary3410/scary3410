@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scary3410&label=Profile%20views&color=0e75b6&style=flat" alt="scary3410" /> </p>
 
-- 🔭 I’m currently working on ....
+- 🔭 I’m currently working on Private Tools , so most of the repositories are set to Private and are not visible. ....
 
 - 🌱 I’m currently learning **BASH , Cross-Site Scripting , Bug Bounty Hunter**
 
