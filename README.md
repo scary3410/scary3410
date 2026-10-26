@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on ....
 
-- 🌱 I’m currently learning **BASH , Cross-Site Scripting , Bug Bounty Hunter (HTB)**
+- 🌱 I’m currently learning **BASH , Cross-Site Scripting , Bug Bounty Hunter**
 
 - 🤝 I’m looking for help with **API's**
 
-- 📝 I regularly write articles on [https://medium.com/@scary9418](https://medium.com/@scary9418)
-
 - 📫 How to reach me **scary9418@gmail.com**
 
-- ⚡ Fun fact **Aiming for 1337**
+- ⚡ **Aiming for 1337**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
